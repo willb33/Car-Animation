@@ -1,8 +1,6 @@
-package assignment_04;
+package animations;
 
 //Will Backscheider
-//CECS 220-01
-//Assignment_04_4
 //6/27/2017
 
 import java.awt.Color;
